@@ -18,7 +18,7 @@
     "url": "https://github.com/matnel/react-maps.git"
   },
   "dependencies": {
-    "React": "git://github.com/facebook/react.git"
+    "react": "^0.10.0"
   },
   "devDependencies": {},
   "engines": {
